@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:5D063E71-41BF-43A2-99E7-338C74CA0EA4</id>
+ <title>Page list Atom feed</title>
+ <updated>2012-02-03T19:28:48+02:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:81D1A1A0-0416-4514-B8F4-EB2E6BB149B2</id>
+  <title>Добро пожаловать</title>
+  <title xmlns="urn:iweb:">Добро пожаловать</title>
+  <in-navbar xmlns="urn:iweb:">81D1A1A0-0416-4514-B8F4-EB2E6BB149B2</in-navbar>
+  <link rel="alternate" href="Dobro_pozalovat.html"/>
+  <updated>2012-02-03T19:28:48.001+02:00</updated>
+  <content>Добро пожаловать</content>
+ </entry>
+</feed>
